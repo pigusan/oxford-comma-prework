@@ -1,4 +1,4 @@
 def oxford_comma(array)
-  array.last()
+  array_length = array.length
   array.join(", ")
 end
