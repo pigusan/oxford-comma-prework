@@ -6,5 +6,6 @@ def oxford_comma(array)
   else 
   array.join(", ")
 end
+end
 
 oxford_comma(['Bernard', 'Brendan', 'Billy'])
